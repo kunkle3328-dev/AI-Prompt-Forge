@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Forge",
+  "description": "An advanced AI-powered application to create, manage, and generate high-quality prompts and code. Features a prompt builder, code generator, and an AI chat interface with a sleek, modern glassmorphism design.",
+  "requestFramePermissions": []
+}
